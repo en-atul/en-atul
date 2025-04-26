@@ -38,7 +38,7 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 | Project | Description |
 |--------|-------------|
-| [`microfrontend-monorepo-starter`](https://github.com/en-atul/ts-microfrontend-monorepo-kit) | Starter for scalable MFE architecture with Webpack, Lerna & Yarn |
+| [`microfrontend-monorepo-starter`](https://github.com/en-atul/ts-microfrontend-monorepo-kit) | Starter for scalable MFE architecture with Webpack, Lerna & PNPM |
 | [`cli-tooling`](https://github.com/en-atul) | CLI tools for internal dev automation (Node.js-based) |
 | [`shared-ui-kit`](https://github.com/en-atul/shared-ui-kit) | Shared component library built for cross-app reuse |
 
