@@ -30,7 +30,7 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 #### Developer Tools
 
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
 
 
 <div style="display: flex;">
