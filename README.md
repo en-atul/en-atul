@@ -44,14 +44,6 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=react" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
