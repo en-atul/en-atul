@@ -21,33 +21,34 @@ From designing **microfrontend infrastructures** to building **backend services 
 ### 🧰 Tech Stack
 
 #### Frontend
-- **Frameworks**: React.js, Next.js, React Native
-- **Languages**: TypeScript, JavaScript, HTML5, CSS
-- **Testing**: Jest, Cypress, Detox
-- **Architecture**: Microfrontends, Module Federation, Monorepos (Lerna, Yarn Workspaces)
+
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,cypress,jest,electron)](https://skillicons.dev)
 
 #### Backend
-- **Runtime**: Node.js
-- **Frameworks**: NestJS
-- **APIs**: GraphQL, REST
-- **Tooling**: Custom CLIs, internal tools
 
----
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,redis)](https://skillicons.dev)
 
-### 🛠 Selected Projects
+#### Developer Tools
 
-| Project | Description |
-|--------|-------------|
-| [`microfrontend-monorepo-starter`](https://github.com/en-atul/ts-microfrontend-monorepo-kit) | Starter for scalable MFE architecture with Webpack, Lerna & PNPM |
-| [`cli-tooling`](https://github.com/en-atul) | CLI tools for internal dev automation (Node.js-based) |
-| [`shared-ui-kit`](https://github.com/en-atul/shared-ui-kit) | Shared component library built for cross-app reuse |
+[![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
+
+
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react_query.png" alt="React Query" width="50" height="50" />
+</div>
+
+
+
+
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/en-atul/" target="_blank">LinkedIn</a>
-<!--   •
-  <a href="mailto:en.atul.99@gmail.com">Email</a> -->
+  <a href="https://www.linkedin.com/in/en-atul/" target="_blank">🔗 LinkedIn</a>
+  <!-- <a href="mailto:en.atul.99@gmail.com">📧 Email</a> -->
 </p>
+
