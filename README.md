@@ -22,7 +22,7 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 #### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,cypress,jest,electron)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,rollupjs,cypress,jest,electron)](https://skillicons.dev)
 
 #### Backend
 
