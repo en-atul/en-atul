@@ -37,8 +37,8 @@ From designing **microfrontend infrastructures** to building **backend services 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react_query.png" alt="React Query" width="50" height="50" />
-<!--     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grunt.png" alt="Grunt" width="50" height="50" />
-</div> -->
+  <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack" width="50" height="50" />
+</div>
 
 
 
