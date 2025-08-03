@@ -26,7 +26,7 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 #### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,redis,java,spring,postgres)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres)](https://skillicons.dev)
 
 #### Developer Tools
 
