@@ -1,24 +1,19 @@
-<h1 align="center">Hey, I'm Atul 👋</h1>
+# 👋 Hi, I'm Atul
 
-<p align="center">
-  🧠 Systems-Focused Engineer • 🧩 Microfrontend Architect • ⚙️ Full-Stack Builder
-</p>
+**Full-Stack Engineer** passionate about building scalable applications and developer experiences.
 
----
+## �� What I Do
 
-### 🧠 About Me
+I build end-to-end solutions with expertise in **frontend architecture**, **microservices**, and **developer tooling**. From hybrid mobile apps to distributed systems, I focus on creating maintainable, scalable applications.
 
-I'm a **full-stack engineer** with a strong focus on **frontend architecture**, **developer tooling**, and **internal platforms**. I build systems — not just apps — with scalability, modularity, and developer experience in mind.
+### Key Experience
+- **Hybrid Mobile Development** - React Native for cross-platform applications
+- **Microservices Architecture** - Java Spring Boot with SAGA pattern implementation
+- **Frontend Architecture** - Micro-frontends and monorepo management
+- **Testing & Quality** - TDD practices with Jest and Cypress
+- **Build Tools** - Webpack, Babel, and modern bundling strategies
 
-From designing **microfrontend infrastructures** to building **backend services and CLIs with Node.js**, my work bridges both frontend and backend engineering disciplines.
-
-- 🧱 Specializing in **modular frontend systems** and **monorepo architectures**
-- ⚙️ Built internal tooling and developer CLIs using **Node.js**
-- 💡 Passionate about clean architecture, DX, and systems thinking
-
----
-
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 #### Frontend
 
@@ -32,7 +27,6 @@ From designing **microfrontend infrastructures** to building **backend services 
 
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
 
-
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="50" height="50" />
@@ -40,16 +34,10 @@ From designing **microfrontend infrastructures** to building **backend services 
   <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack" width="50" height="50" />
 </div>
 
+## �� Connect
 
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/en-atul/)
 
 ---
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/en-atul/" target="_blank">🔗 LinkedIn</a>
-  <!-- <a href="mailto:en.atul.99@gmail.com">📧 Email</a> -->
-</p>
-
+*Building systems that scale. Always learning, always improving.*
