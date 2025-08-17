@@ -17,7 +17,7 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 
 #### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,rollupjs,gulp,cypress,jest,electron)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,gulp,cypress,jest,electron)](https://skillicons.dev)
 
 #### Backend
 
