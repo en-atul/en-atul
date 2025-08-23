@@ -21,7 +21,7 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 
 #### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python,fastapi)](https://skillicons.dev)
 
 #### Developer Tools
 
