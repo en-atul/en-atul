@@ -37,6 +37,10 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=en-atul&bg_color=0b0f1a&color=9fb3ff&line=7aa2ff&point=ffd97a&area=true&hide_border=true)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=radical)
+
+
+
 ## �� Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/en-atul/)
