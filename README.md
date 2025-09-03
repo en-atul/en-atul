@@ -34,14 +34,25 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
   <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack" width="50" height="50" />
 </div>
 
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=blueberry" height="180" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=blueberry" height="180" />
+  
+</div>
+
+
+
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=en-atul&bg_color=0b0f1a&color=9fb3ff&line=7aa2ff&point=ffd97a&area=true&hide_border=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=en-atul&theme=radical&hide_border=true)
 
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=radical)
 
 
 
