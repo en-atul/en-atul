@@ -41,6 +41,9 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=en-atul&theme=radical&hide_border=true)
 
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=radical)
+
+
 
 
 
