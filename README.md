@@ -35,14 +35,19 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=blueberry" height="180" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=blueberry" height="180" />
-  
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=blueberry" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=blueberry" height="200"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 
