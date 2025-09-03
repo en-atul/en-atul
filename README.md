@@ -1,39 +1,41 @@
 # 👋 Hi, I'm Atul
 
-**Full-Stack Engineer** passionate about building scalable applications and developer experiences.
+🚀 **Full-Stack Engineer** passionate about building scalable applications and crafting great developer experiences.  
+I focus on **frontend architecture**, **microservices**, and **developer tooling** to deliver high-quality, maintainable systems.
 
-## �� What I Do
+---
 
-I build end-to-end solutions with expertise in **frontend architecture**, **microservices**, and **developer tooling**. From hybrid mobile apps to distributed systems, I focus on creating maintainable, scalable applications.
+## 💡 What I Do
 
-### Key Experience
-- **Hybrid Mobile Development** - React Native for cross-platform applications
-- **Microservices Architecture** - Java Spring Boot with SAGA pattern implementation
-- **Frontend Architecture** - Micro-frontends and monorepo management
-- **Testing & Quality** - TDD practices with Jest and Cypress
-- **Build Tools** - Webpack, Babel, and modern bundling strategies
+- 📱 **Hybrid Mobile Development** – React Native for cross-platform apps  
+- 🏗️ **Microservices Architecture** – Java Spring Boot with SAGA pattern  
+- 🎨 **Frontend Architecture** – Micro-frontends & monorepo management  
+- ✅ **Testing & Quality** – TDD with Jest, Cypress  
+- ⚡ **Build Tools** – Webpack, Babel, Rspack & modern bundling strategies  
 
-## 🧰 Tech Stack
+---
 
-#### Frontend
+## 🛠️ Tech Stack
 
+### 🌐 Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,gulp,cypress,jest,electron)](https://skillicons.dev)
 
-#### Backend
-
+### ⚙️ Backend
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python,fastapi)](https://skillicons.dev)
 
-#### Developer Tools
-
+### 🧰 Developer Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
 
-<div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react_query.png" alt="React Query" width="50" height="50" />
-  <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack" width="50" height="50" />
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react_query.png" alt="React Query" width="45" height="45" />
+  <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack" width="45" height="45" />
 </div>
 
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -50,23 +52,20 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 
 </div>
 
+<div align="center">
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=en-atul&bg_color=0b0f1a&color=9fb3ff&line=7aa2ff&point=ffd97a&area=true&hide_border=true" width="95%"/>
 
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=en-atul&bg_color=0b0f1a&color=9fb3ff&line=7aa2ff&point=ffd97a&area=true&hide_border=true)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=en-atul&theme=radical&hide_border=true)
-
-
-
-
-
-
-## �� Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/en-atul/)
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=en-atul&theme=blueberry&hide_border=true" height="180"/>
+  
+</div>
 
 ---
 
-*Building systems that scale. Always learning, always improving.*
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/en-atul/)  
+💬 *Building systems that scale. Always learning, always improving.*
+
