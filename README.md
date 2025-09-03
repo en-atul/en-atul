@@ -39,6 +39,9 @@ I build end-to-end solutions with expertise in **frontend architecture**, **micr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=en-atul&theme=radical&hide_border=true)
+
+
 
 
 ## �� Connect
