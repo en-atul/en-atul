@@ -52,15 +52,7 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 
 </div>
 
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=en-atul&bg_color=0b0f1a&color=9fb3ff&line=7aa2ff&point=ffd97a&area=true&hide_border=true" width="95%"/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=en-atul&theme=blueberry&hide_border=true" height="180"/>
-  
-</div>
 
 ---
 
