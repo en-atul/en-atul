@@ -5,16 +5,6 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 
 ---
 
-## 💡 What I Do
-
-- 📱 **Hybrid Mobile Development** – React Native for cross-platform apps  
-- 🏗️ **Microservices Architecture** – Java Spring Boot with SAGA pattern  
-- 🎨 **Frontend Architecture** – Micro-frontends & monorepo management  
-- ✅ **Testing & Quality** – TDD with Jest, Cypress  
-- ⚡ **Build Tools** – Webpack, Babel, Rspack & modern bundling strategies  
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
