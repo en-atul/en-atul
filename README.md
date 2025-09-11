@@ -11,7 +11,7 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,styledcomponents,sass,redux,webpack,babel,gulp,cypress,jest,electron)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python,fastapi)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python,fastapi,bash)](https://skillicons.dev)
 
 ### 🧰 Developer Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
