@@ -5,13 +5,6 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 
 ---
 
-<iframe 
-    src="https://wellnite.com" 
-    width="100%" 
-    height="800" 
-    style="border: none;">
-</iframe>
-
 
 ## 🛠️ Tech Stack
 
