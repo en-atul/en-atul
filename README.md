@@ -26,27 +26,6 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=en-atul&layout=compact&theme=blueberry" height="200"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=en-atul&show_icons=true&theme=blueberry" height="200"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
-
----
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/en-atul/)  
