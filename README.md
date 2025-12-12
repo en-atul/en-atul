@@ -15,7 +15,7 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express,graphql,mongodb,docker,kubernetes,redis,java,spring,postgres,python,fastapi,bash)](https://skillicons.dev)
 
 ### 🧰 Developer Tools
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,postman,figma,netlify,npm,pnpm,yarn,sentry,gcp,aws)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="45" height="45" />
