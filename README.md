@@ -5,7 +5,7 @@ I focus on **frontend architecture**, **microservices**, and **developer tooling
 
 ---
 
-<button>Click</button>
+<button onclick="alert("hello");">Click</button>
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
