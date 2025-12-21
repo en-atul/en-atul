@@ -54,12 +54,12 @@ I specialize in **frontend architecture**, **microservices**, and **developer to
 - Build tooling & performance profiling  
 - Developer observability & debugging  
 
-<div align="center" style="margin-top: 12px;">
+<!-- <div align="center" style="margin-top: 12px;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="REST" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react_query.png" alt="React Query" width="45" height="45" />
   <img src="https://assets.rspack.dev/rsdoctor/rsdoctor-logo-480x480.png" alt="Rspack / Rsdoctor" width="45" height="45" />
-</div>
+</div> -->
 
 ---
 
